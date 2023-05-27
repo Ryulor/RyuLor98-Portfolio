@@ -1,5 +1,9 @@
 body {
-    background-color: rgb(86, 26, 239);
-    border-color: rgb(240, 237, 237);
-    color: azure;
+    background-color: rgb(244, 243, 246);
+    border-color: rgb(17, 16, 16);
+    color: rgb(7, 7, 7);
+}
+header {
+    color:rgb(7, 7, 7);
+    font-size: 24px;
 }
